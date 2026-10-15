@@ -40,4 +40,4 @@ The front page of the repository shows the contents of `README.md`, rendered as 
 No, pushing did not change my local history. `git log --oneline` showed the same commits with the same hashes as before. Push only copies my commits to GitHub, and the only difference is that `origin/main` now appears next to my latest commit, showing that the remote is up to date.
 
 ## Question 14
-A private repository exists on GitHub and holds all my files and history, but only I and the people I invite (here, the TAs) can see or access it. A repository that doesn't exist on GitHub has nothing stored there at all, so there is nothing to share and no off-site backup. Private means restricted access, while not existing means no copy online.5
+A private repository exists on GitHub and holds all my files and history, but only I and the people I invite (here, the TAs) can see or access it. A repository that doesn't exist on GitHub has nothing stored there at all, so there is nothing to share and no off-site backup. Private means restricted access, while not existing means no copy online.
