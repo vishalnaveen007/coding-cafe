@@ -1,0 +1,2 @@
+Hero: Aric the Brave | Score: 1 | Outcome: failed
+Hero: Vishal the Valiant | Score: 65 | Outcome: survived
